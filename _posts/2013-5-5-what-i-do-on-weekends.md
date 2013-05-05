@@ -9,6 +9,7 @@ tags: ["java"]
 
   做为一个C++程序员，我在不知不觉总是比较着C++与java差异。在编程实践中，有时我想利用java中的默认参数，但是不幸地是，java
 没有这个特性。好在，我们总是替代技术实现某语言所不具备的特性。利用一个包裹类就是默认参数就是如此。
+
     public class StudentBuilder{
     private String _name;
     private int _age = 14;      
