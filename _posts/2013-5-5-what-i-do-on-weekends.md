@@ -41,8 +41,4 @@ tags: ["java"]
     }
 我们可以如下的写代码。如果采用默认参数，那么留空某些参数即可。
     Student s1 = new StudentBuilder().name("Eli").buildStudent();
-    Student s2 = new StudentBuilder()
-                 .name("Spicoli")
-                 .age(16)
-                 .motto("Aloha, Mr Hand")
-                 .buildStudent();
+    Student s2 = new StudentBuilder().name("Spicoli").age(16).motto("Aloha, Mr Hand").buildStudent();
