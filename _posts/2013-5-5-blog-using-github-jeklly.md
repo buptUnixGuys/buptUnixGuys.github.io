@@ -13,12 +13,12 @@ tags: ["blog", "github pages"]
 
 ###准备工作
 
-*需要有github账号
-*建立一个以自己名字命名的仓库
+* 需要有github账号
+* 建立一个以自己名字命名的仓库
 
 ###建立简单的网站
-*把index.html静态网页放到仓库目录即可。
-*在没有指定cname的情况下，网站地址为http://username.github.io
+* 把index.html静态网页放到仓库目录即可。
+* 在没有指定cname的情况下，网站地址为http://username.github.io
 
 
 ###利用jekyll
@@ -29,6 +29,6 @@ jekyll提供了更为强大的功能。jekyll是github网站提供的静态网�
 我现在的博客利用了[天外天博客][3]的模板。在此感谢他。
 
 
-[1]https://github.com/mojombo/jekyll
-[2]https://github.com/mojombo/jekyll/wiki
-[3]http://blog.evercoding.net/
+[1]:https://github.com/mojombo/jekyll
+[2]:https://github.com/mojombo/jekyll/wiki
+[3]:http://blog.evercoding.net/
