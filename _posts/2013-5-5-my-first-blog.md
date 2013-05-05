@@ -21,4 +21,4 @@ title:我的第一篇博客
 
 good luck！
 
-[我的新浪微博](http://weibo.co/245136887)
+[我的新浪微博](http://weibo.com/245136887)
