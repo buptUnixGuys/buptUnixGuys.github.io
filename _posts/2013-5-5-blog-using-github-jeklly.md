@@ -9,7 +9,7 @@ tags: ["blog", "github pages"]
 
 ###前言
 
-以前从没做过前端的工作，总想完善下自己的知识体系，就想利用github pages搭建自己的博客
+想利用github pages搭建自己的博客
 
 ###准备工作
 
